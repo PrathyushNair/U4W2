@@ -1,0 +1,47 @@
+.tablediv{
+    
+    width:70%;
+    margin:auto;
+    margin-top: 5%;
+    
+}
+.table{
+    
+    width:100%;
+    border-radius: 10px;
+}
+.eachelem{
+    
+        border:5px solid white;
+        width:20%;
+        border-radius: 10px;
+        height:auto;
+
+}
+.formelem{
+   justify-content: center;
+   align-items: center;
+    display:flex;
+   gap:15px;
+   font-size:x-large;
+}
+.filterdiv
+{   height:30px;
+    width:40%;
+    margin:auto;
+    margin-top: 2%;
+}
+.pagenav{
+    color:white;
+    background-color: gold;
+    width: 10%;
+    height: 50px;
+    border:5px solid white
+}
+.filterdivelem
+{font-size:larger;
+    height:30px;
+    width:50%;
+    border-radius:10px;
+    background-color:dodgerblue;
+    color:white}

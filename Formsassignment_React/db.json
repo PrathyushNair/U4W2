@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "username": "Samyak",
+      "age": "22",
+      "address": "202,Ekvira Sadan Opp BSNL Telephone Exchange,Bolinj,Virar (West)",
+      "dept": "Accounting",
+      "sal": 200,
+      "marstat": true,
+      "pic": null,
+      "id": 3
+    },
+    {
+      "username": "Sobha",
+      "age": "45",
+      "address": "202,Ekvira Sadan Opp BSNL Telephone Exchange,Bolinj,Virar (West)",
+      "dept": "Research",
+      "sal": 90000,
+      "marstat": false,
+      "pic": null,
+      "id": 4
+    },
+    {
+      "username": "Prem",
+      "age": "59",
+      "address": "Andheri",
+      "dept": "Logistics",
+      "sal": 56000,
+      "marstat": true,
+      "pic": null,
+      "id": 5
+    },
+    {
+      "username": "Premchandran",
+      "age": "59",
+      "address": "Andheri",
+      "dept": "Logistics",
+      "sal": 84000,
+      "marstat": true,
+      "pic": null,
+      "id": 10
+    }
+  ]
+}

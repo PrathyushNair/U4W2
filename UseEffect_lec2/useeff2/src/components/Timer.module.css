@@ -1,0 +1,47 @@
+.inp1{
+ width:45%;
+ height:50px;
+ font-size: large;
+ margin-left: 2%;
+ border-radius: 20px;
+ background-color: dodgerblue;
+ color:white;
+ margin-top: 5%;
+ border:3px solid white;
+}
+.inp2{
+    width:45%;
+    height:50px;
+    font-size: large;
+    margin-left: 2%;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    color:white;
+    margin-top: 15%;
+    border:3px solid white;
+}
+.btnstr{
+    width:10%;
+    height:50px;
+    font-size: large;
+    border-radius: 20px;
+    background-color: dodgerblue;
+    color:white;
+    /* margin-top: 15%; */
+    margin-left: 44%;
+    border:3px solid white;
+}
+.content{
+    border-radius: 20px;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: dodgerblue;
+    color:white;
+    height:50px;
+    margin-top: 20px;
+    border:3px solid white;
+
+}
